@@ -64,9 +64,9 @@
     <Compile Include="Array1.cs" />
     <Compile Include="Array2.cs" />
     <Compile Include="Arrayproject1.cs" />
-    <Compile Include="MyFirstTask1Csharp.cs" />
     <Compile Include="MyTask.cs" />
-    <Compile Include="MyFirstTask2Csharp.cs" />
+    <Compile Include="myTask\MyFirstTask1Csharp.cs" />
+    <Compile Include="myTask\MyFirstTask2Csharp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleProgram.cs" />
   </ItemGroup>
